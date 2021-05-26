@@ -107,3 +107,24 @@ de_pronto de_pronto RG
 Puente_la_Reina puente_la_reina NP00G00
 Alpe_d'Huez alpe_d'huez NP00G00
 Galo_d'Ouro galo_d'ouro NP00G00
+
+sardiñas_asadas sardiñas_asadas NCFP000
+caldo_galego caldo_galego NCMS000
+tarta_de_queixo torta_de_queixo NCFS000
+empanada_galega empanada NCFS000
+patacas_fritas patacas_fritas NCFP000
+torta_de_santiago torta_de_Santiago NCFS000
+merluza_con_patacas merluza_con_patacas NCFS000
+lacón_con_grelos lacón_con_grelos NCMS000
+pataca_cocida_de_abadín pataca_cocida_de_Abadín NCFS000
+polo_asado polo_asado NCMS000
+cocochas_braseadas cocochas_braseadas NCFP000
+pementos_de_padrón pementos_de_Padrón NCMP000
+sopa_de_marisco sopa_de_marisco NCFS000
+empanadas_de_peixe empanada_de_peixe NCFP000
+tartas_de_lestedo torta_de_Lestedo NCFP000
+caldo_gallego caldo_galego NCMS000
+tortas_de_santiago torta_de_Santiago NCFP000
+carne_asada carne_asada NCFS000
+tarta_de_santiago torta_de_Santiago NCFS000
+torta_de_lestedo torta_de_Lestedo NCFS000
