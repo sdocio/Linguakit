@@ -128,7 +128,6 @@ tortas_de_santiago torta_de_Santiago NCFP000
 carne_asada carne_asada NCFS000
 tarta_de_santiago torta_de_Santiago NCFS000
 torta_de_lestedo torta_de_Lestedo NCFS000
-<<<<<<< HEAD
 caldeirada_de_peixe caldeirada_de_peixe NCFS000
 torta_do_casar torta_del_Casar NCFS000
 pataca_galega pataca_galega NCFS000
@@ -156,5 +155,3 @@ polbo_con_cachelos polbo_con_cachelos NCMS000
 parrillada_de_peixe_e_marisco grellada_de_peixe_e_marisco NCFS000
 menú_do_peregrino menú_do_peregrino NCMS000
 tenreira_galega tenreira_galega NCFS000
-=======
->>>>>>> f1bcea6 (Add gastronomy terms to dicts)

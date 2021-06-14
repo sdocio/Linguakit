@@ -326,11 +326,8 @@ Sobrado_dos_Monxes sobrado_dos_monxes NP00G00
 Isabel_la_Católica isabel_la_católica NP00SP0
 Costa_da_Morte costa_da_morte NP00G00
 Monte_do_Gozo monte_do_gozo NP00G00
-<<<<<<< HEAD
 Alpe_d'Huez alpe_d'huez NP00G00
 Galo_d'Ouro galo_d'ouro NP00G00
-=======
->>>>>>> f1bcea6 (Add gastronomy terms to dicts)
 
 # Gastronomy
 carne_de_ternera carne_de_ternera NCFS000
