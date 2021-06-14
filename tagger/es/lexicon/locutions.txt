@@ -440,3 +440,9 @@ arroz_brut arroz_brut NCMS000
 merluza_con_tomate_y_almeja merluza_con_tomate_y_almeja NCFS000
 licor_café licor_café NCMS000
 conejo_en_salmorejo conejo_en_salmorejo NCMS000
+calamares_fritos calamares_fritos NCMP000
+arrollado_de_pollo arrollado_de_pollo NCMS000
+sándwich_de_jamón_y_queso sándwich_de_jamón_y_queso NCMS000
+bocadillo_de_queso bocadillo_de_queso NCMS000
+licores_de_orujo licor_de_orujo NCMP000
+chuletón_de_ternera_gallega chuletón_de_ternera_gallega NCMS000

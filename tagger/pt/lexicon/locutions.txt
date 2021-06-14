@@ -67,3 +67,9 @@ creme_de_alho creme_de_alho NCMS000
 marron_glacé marron_glacé NCMS000
 tartas_de_santiago torta_de_Santiago NCFS000
 polvo_grelhado polvo_grelhado NCMS000
+batata_frita batata_frita NCFS000
+torta_de_santiago_de_compostela torta_de_Santiago NCFS000
+prato_do_dia prato_do_dia NCMS000
+menu_do_peregrino menu_do_peregrino NCMS000
+menus_do_peregrino menu_do_peregrino NCMP000
+licor_de_ervas licor_de_ervas NCMS000
