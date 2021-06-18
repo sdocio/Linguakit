@@ -149,3 +149,9 @@ repolo_de_betanzos repolo_de_Betanzos NCMS000
 carne_de_porco carne_de_porco NCFS000
 grelos_de_xestoso grelos_de_Xestoso NCMP000
 pulpo_á_feira polbo_á_feira NCMS000
+prato_combinado prato_combinado NCMS000
+filete_con_arroz_e_ovos filete_con_arroz_e_ovos NCMS000
+polbo_con_cachelos polbo_con_cachelos NCMS000
+parrillada_de_peixe_e_marisco grellada_de_peixe_e_marisco NCFS000
+menú_do_peregrino menú_do_peregrino NCMS000
+tenreira_galega tenreira_galega NCFS000
