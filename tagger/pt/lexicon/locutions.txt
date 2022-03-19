@@ -128,3 +128,5 @@ caldeirada_de_bacalhau caldeirada_de_bacalhau NCFS000
 presunto_pata_negra presunto_pata_negra NCMS000
 bacalhau_com_natas bacalhau_com_natas NCMS000
 tortilha_espanhola tortilha_espanhola NCFS000
+caldo_verde caldo_verde NCMS000
+sanduiche_de_calamares sanduiche_de_calamares NCMS000

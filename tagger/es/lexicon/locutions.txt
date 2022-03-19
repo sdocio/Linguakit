@@ -297,6 +297,9 @@ bien_entendido_que bien_entendido_que CS
 bóbilis_bóbilis bóbilis_bóbilis RG
 boca_arriba boca_arriba RG
 de_higos_a_brevas de_higos_a_brevas RG
+como_dios_manda como_Dios_manda RG
+de_higos_a_brevas de_higos_a_brevas RG
+dios_mío Dios_mío I
 en_lugar_de en_lugar_de SPS00
 en_remojo en_remojo RG
 en_demasía en_demasía RG
@@ -487,3 +490,5 @@ gamba_roja gamba_roja NCFS000
 patatas_fritas_y_pimientos patatas_fritas_y_pimientos NCFP000
 tortilla_de_papas tortilla_de_patatas NCFS000
 bocadillo_de_tortilla bocadillo_de_tortilla NCMS000
+pollo_al_horno_con_cebolla_y_patatas pollo_al_horno_con_cebolla_y_patatas NCMS000
+patatas_fritas patatas_fritas NCFP000
