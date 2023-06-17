@@ -11,17 +11,12 @@ em_breve em_breve RG
 para_além_de para_além_de SPS00
 a_o_vivo a_o_vivo RG
 
-<<<<<<< HEAD
 # Entities
 Puente_la_Reina puente_la_reina NP00G00
 Alpe_d'Huez alpe_d'huez NP00G00
 Galo_d'Ouro galo_d'ouro NP00G00
 
 # gastronomy
-=======
-=======
-# gastronomy
->>>>>>> b8a85f2 (Add more gastronomy terms)
 pimentos_padrón pimentos_de_Padrón NCMP000
 pimentos_de_padrão pimentos_de_Padrón NCMP000
 torta_de_san_telmo torta_de_San_Telmo NCFS000
@@ -135,3 +130,21 @@ bacalhau_com_natas bacalhau_com_natas NCMS000
 tortilha_espanhola tortilha_espanhola NCFS000
 caldo_verde caldo_verde NCMS000
 sanduiche_de_calamares sanduiche_de_calamares NCMS000
+pimenta_de_padrón pimentos_de_Padrón NCFS000
+pulpo_com_cachelos polvo_com_cachelos NCMS000
+vinho_branco vinho_branco NCMS000
+café_com_churros café_com_churros NCMS000
+pastelzinho_de_belém pastéis_de_Belém NCMS00D
+vinho_com_pão vinho_com_pão NCMS000
+chocolate_quente chocolate NCMS000
+barras_de_chocolate tablete_de_chocolate NCFP000
+chocolate_preto chocolate NCMS000
+tabletes_de_chocolate tablete_de_chocolate NCMP000
+queijos_que_é_um_peito queijo_de_tetilha NCMP000
+pastel_de_belém pastéis_de_Belém NCMS000
+vinho_verde vinho_verde NCMS000
+fruto_do_mar frutos_do_mar NCMS000
+arroz_e_feijão arroz_com_feijão NCMS000
+fabada_asturiana fabada NCFS000
+sopa_asturiana sopa_asturiana NCFS000
+peixe_fresco peixe NCMS000

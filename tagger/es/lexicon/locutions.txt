@@ -473,7 +473,6 @@ a_la_vinagreta a_la_vinagreta AQ0CN0
 a_la_brasa a_la_brasa AQ0CN0
 bonito_de_lata bonito_de_lata NCMS000
 patatas_fritas_con_pollo pollo_con_patatas_fritas NCFP000
-entrecot_gallego entrecot_gallego NCMS000
 cocido_castellano cocido_castellano NCMS000
 filete_de_ternera filete_de_ternera NCMS000
 menú_del_día menú_del_día NCMS000
@@ -484,7 +483,6 @@ leche_gallega leche_gallega NCFS000
 tortilla_de_betanzos tortilla_de_Betanzos NCFS000
 menús_del_peregrino menú_del_peregrino NCMP000
 jamón_asado jamón_asado NCMS000
-entrecot_argentino entrecot_argentino NCMS000
 menú_del_peregrino menú_del_peregrino NCMS000
 gamba_roja gamba_roja NCFS000
 patatas_fritas_y_pimientos patatas_fritas_y_pimientos NCFP000
@@ -492,3 +490,8 @@ tortilla_de_papas tortilla_de_patatas NCFS000
 bocadillo_de_tortilla bocadillo_de_tortilla NCMS000
 pollo_al_horno_con_cebolla_y_patatas pollo_al_horno_con_cebolla_y_patatas NCMS000
 patatas_fritas patatas_fritas NCFP000
+pan_bimbo pan_Bimbo NCMS000
+pasteles_de_belém pasteles_de_Belém NCMP000
+queso_de_la_nabiza queso_de_nabiza NCMS000
+grelos_en_lata grelos_en_lata NCMP000
+ribeiro_tinto ribeiro NCMS000
